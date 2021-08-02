@@ -4,6 +4,6 @@
 
 Hi!
 
-This respitory is created after I finished the "30 days of JavaScript" course by [Wes Bos.](https://github.com/wesbos).
+This respitory is created after I finished the "30 days of JavaScript" course by [Wes Bos.](https://github.com/wesbos)
 
 
